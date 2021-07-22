@@ -21,14 +21,14 @@ section.chat__section {
 }
 .brand {
     padding: 20px;
-    background: #f1f1f1;
+    background: #253cde8a;
     display: flex;
     align-items: center;
 }
 .brand h1 {
     text-transform: uppercase;
     font-size: 20px;
-    color: #444;
+    color: white;
     margin-left: 10px;
 }
 .message__area{
@@ -49,14 +49,14 @@ textarea {
 }
 
 .message {
-    padding: 20px; 
-    border-radius: 4px; 
+    padding: 12px; 
+    border-radius: 28px; 
     margin-bottom: 40px;
     max-width: 300px;
     position: relative;
 }
 .incoming {
-    background: #8F8BE8;
+    background: #374c7d;
     color: #fff;  
 }
 .outgoing {
