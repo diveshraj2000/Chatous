@@ -58,6 +58,7 @@ textarea {
 .incoming {
     background: #374c7d;
     color: #fff;  
+    margin-right: auto;
 }
 .outgoing {
     background: #e9eafd;
